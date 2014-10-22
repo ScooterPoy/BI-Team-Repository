@@ -1,3 +1,0 @@
-BI-Team-Repository
-==================
-Test
